@@ -2,7 +2,6 @@
 
 /**
  * binary_tree_insert_left - insert node as left child
- *
  * @parent: node to insert left child in
  * @value: value the new node will store
  *
